@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: #c0c0c0;
+}
+
+p {
+    font-family: sans-serif;
+}
+h1 {
+	color: red;
+}
+h2 {
+	color:blue;
+}
+p {
+	color:green;
+}
