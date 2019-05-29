@@ -1,3 +1,3 @@
 # Accesibilty + Usability
 Reading Blog Summaries
-The Curb-Cut Effect
+# The Curb-Cut Effect
